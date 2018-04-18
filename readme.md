@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://zerobscrm.com/wp-content/themes/ZeroBSlander/img/1.png">
+</p>
+
 # Zero BS CRM - Code Examples for Developers #
 
 This is the public repository for integration code examples relating to [Zero BS CRM](https://zerobscrm.com). If you're not a developer, try the homepage: [https://zerobscrm.com](https://zerobscrm.com), or the [Knowledgebase](https://zerobscrm.com/kb/).
