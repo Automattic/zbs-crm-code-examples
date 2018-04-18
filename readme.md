@@ -17,7 +17,10 @@ The guides contained in this repo require a basic knowledge of PHP and WordPress
 
 This code example adds a custom tab to your Zero BS CRM Contact View, by way of a custom WordPress plugin.
 
-[File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/custom-contact-vitals-tab-plugin.php) ` examples/custom-contact-vitals-tab-plugin.php `
+* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/custom-contact-vitals-tab-plugin.php) ` examples/custom-contact-vitals-tab-plugin.php `
+* [Full Guide](https://zerobscrm.com/kb/knowledge-base/adding-custom-tabs-to-contact-view-or-company-view/)
+
+
 
 
 ## Updates ##
