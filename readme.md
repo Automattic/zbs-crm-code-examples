@@ -1,6 +1,6 @@
 # Zero BS CRM - Code Examples for Developers #
 
-This is the public repository for integration code examples relating to [Zero BS CRM](https://zerobscrm). If you're not a developer, try the homepage: [https://zerobscrm](https://zerobscrm), or the [Knowledgebase](https://zerobscrm.com/kb/).
+This is the public repository for integration code examples relating to [Zero BS CRM](https://zerobscrm.com). If you're not a developer, try the homepage: [https://zerobscrm.com](https://zerobscrm.com), or the [Knowledgebase](https://zerobscrm.com/kb/).
 
 ## Pre-requisites ##
 
@@ -17,4 +17,9 @@ The guides contained in this repo require a basic knowledge of PHP and WordPress
 
 This code example adds a custom tab to your Zero BS CRM Contact View, by way of a custom WordPress plugin.
 
-` File: examples/hooking-into-contact-vitals-plugin.php `
+[File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/hooking-into-contact-vitals-plugin.php) ` examples/hooking-into-contact-vitals-plugin.php `
+
+
+## Updates ##
+
+This repository will be updated as we build out further guides for our CRM integrations.
