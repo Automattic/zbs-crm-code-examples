@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zerobscrm.com/wp-content/themes/ZeroBSlander/img/1.png">
+  <a href="https://zerobscrm.com"><img src="https://zerobscrm.com/wp-content/themes/ZeroBSlander/img/1.png"></a>
 </p>
 
 # Zero BS CRM - Code Examples for Developers #
