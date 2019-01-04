@@ -29,13 +29,13 @@ This code example adds a custom tab to your Zero BS CRM Contact View, by way of 
 
 This code example adds a custom page to the client portal, by way of a custom WordPress Plugin.
 
-* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/custom-client-portal-page.php)
+* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/custom-client-portal-page.php) ` examples/custom-client-portal-page.php `
 
 ### Add First and Last Name to WordPress registration Page ###
 
 This code example adds first and last name inputs to the default WordPress registration page, via a custom WordPress plugin.
 
-* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/add-first-name-last-name-to-wp-sign-up-form.php)
+* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/add-first-name-last-name-to-wp-sign-up-form.php) ` add-first-name-last-name-to-wp-sign-up-form.php `
 
 
 ## Updates ##
