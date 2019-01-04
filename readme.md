@@ -25,6 +25,12 @@ This code example adds a custom tab to your Zero BS CRM Contact View, by way of 
 * [Full Guide](https://zerobscrm.com/kb/knowledge-base/adding-custom-tabs-to-contact-view-or-company-view/)
 
 
+### Adding a page to the client portal ###
+
+This code example adds a custom page to the client portal, by way of a custom WordPress Plugin.
+
+* [File:](https://github.com/zero-bs-crm/code-examples/blob/master/examples/custom-client-portal-page.php)
+* Guide to follow.
 
 
 ## Updates ##
