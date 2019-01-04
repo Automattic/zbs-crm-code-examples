@@ -29,8 +29,8 @@ Text Domain: zerobscrm
 add_action( 'register_form', 'zerobscrm_register_form' );
 function zerobscrm_register_form() {
 
-    $first_name = ( ! empty( $_POST['first_name'] ) ) ? trim( $_POST['first_name'] ) : '';
-    $last_name = ( ! empty( $_POST['last_name'] ) ) ? trim( $_POST['last_name'] ) : '';
+    $first_name = ( ! empty( $_POST['first_name'] ) ) ? trim( sanitize_text_field( $_POST['first_name'] ) ) : '';
+    $last_name = ( ! empty( $_POST['last_name'] ) ) ? trim( sanitize_text_field( $_POST['last_name'] ) ) : '';
 
         ?>
         <p>
@@ -63,7 +63,7 @@ function zerobscrm_register_form() {
     add_action( 'user_register', 'zerobscrm_user_register' );
     function zerobscrm_user_register( $user_id ) {
         if ( ! empty( $_POST['first_name'] ) ) {
-            update_user_meta( $user_id, 'first_name', trim( $_POST['first_name'] ) );
-            update_user_meta( $user_id, 'last_name', trim( $_POST['last_name'] ) );
+            update_user_meta( $user_id, 'first_name', trim( sanitize_text_field($_POST['first_name'] ) ) );
+            update_user_meta( $user_id, 'last_name', trim( sanitize_text_field($_POST['last_name'] ) ) );
         }
     }
